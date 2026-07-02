@@ -1,10 +1,11 @@
 import React from 'react';
-import Login from './componens/login';
+import Login from './componens/userpenal';
+import UserPanel from './componens/Userpenal';
 
 function App() {
   return (
     <>
-      <Login />
+      <UserPanel />
     </>
   );
 }
