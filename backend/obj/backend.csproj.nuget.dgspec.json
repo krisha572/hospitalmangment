@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\project\\hospitalmangment\\backend\\backend.csproj": {}
+    "D:\\Sunil\\Softwer\\dotnetcore\\Projects\\hospitalmangment\\backend\\backend.csproj": {}
   },
   "projects": {
-    "F:\\project\\hospitalmangment\\backend\\backend.csproj": {
+    "D:\\Sunil\\Softwer\\dotnetcore\\Projects\\hospitalmangment\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\project\\hospitalmangment\\backend\\backend.csproj",
+        "projectUniqueName": "D:\\Sunil\\Softwer\\dotnetcore\\Projects\\hospitalmangment\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "F:\\project\\hospitalmangment\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\project\\hospitalmangment\\backend\\obj\\",
+        "projectPath": "D:\\Sunil\\Softwer\\dotnetcore\\Projects\\hospitalmangment\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\memak\\.nuget\\packages\\",
+        "outputPath": "D:\\Sunil\\Softwer\\dotnetcore\\Projects\\hospitalmangment\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\memak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,6 +52,10 @@
           "framework": "net7.0",
           "targetAlias": "net7.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

@@ -1,6 +1,4 @@
 using backend.Data;
-using backend.Interfaces;
-using backend.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +10,7 @@ builder.Services.AddDbContext<HospitalDbContext>(options =>
     options.UseInMemoryDatabase("HospitalDb"));
 
 // Register Services
-builder.Services.AddScoped<IPatientService, PatientService>();
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
