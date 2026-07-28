@@ -151,3 +151,4 @@ D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\obj\Debug\net8.0\r
 D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\obj\Debug\net8.0\backend.pdb
 D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\obj\Debug\net8.0\ref\backend.dll
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
