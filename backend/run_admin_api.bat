@@ -1,4 +1,6 @@
 @echo off
 set PATH=C:\Program Files\dotnet;%PATH%
 set DOTNET_ROOT=C:\Program Files\dotnet
-"C:\Program Files\dotnet\dotnet.exe" run --project src/Admin.API/Admin.API.csproj --launch-profile http
+cd /d "%~dp0"
+echo Starting HMS Admin API on http://localhost:5001...
+"C:\Program Files\dotnet\dotnet.exe" publish\adminapi\Admin.API.dll
