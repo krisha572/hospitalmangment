@@ -1,6 +1,6 @@
 @echo off
 echo ===================================================================
-echo   Hospital Management System - Starting Frontend & Both Backend APIs
+echo   Hospital Management System - Starting Frontend and Both Backend APIs
 echo ===================================================================
 echo.
 echo 1. Starting Public/User API (http://localhost:5000)...

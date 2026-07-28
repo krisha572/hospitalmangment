@@ -1,0 +1,10 @@
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\appsettings.Development.json
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\appsettings.json
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\API.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\Microsoft.Data.SqlClient.SNI.dll
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\Infrastructure.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\Data.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\Models.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\Shared.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\EmailService.pdb
+D:\Sunil\Softwer\dotnetcore\Projects\hospitalmangment\backend\publish\single_api\API.exe
